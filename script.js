@@ -1,5 +1,5 @@
 const DEFAULTS = {
-  nome: "Meu amor",
+  nome: "Para nossa querida Iris",
   mensagem: "Que esse carinho chegue como um abraco: simples, bonito e cheio de amor.",
   foto:
     "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 800'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1' y1='0' y2='1'%3E%3Cstop stop-color='%23ff8ab3'/%3E%3Cstop offset='1' stop-color='%23d91e64'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='800' height='800' fill='url(%23g)'/%3E%3Ccircle cx='400' cy='310' r='118' fill='%23fff2f7' opacity='.88'/%3E%3Cpath d='M186 690c36-154 139-236 214-236s178 82 214 236' fill='%23fff2f7' opacity='.88'/%3E%3C/svg%3E",
@@ -21,24 +21,24 @@ const nextBtn = document.querySelector("#nextBtn");
 
 const fotos = [
   {
-  foto: "imagens/Foto Casal1.jpg",
-  mensagem: "Cada detalhe seu deixa meu mundo mais bonito e meu coração mais em paz.",
+  foto: "imagens/fotoiris1.jpeg",
+  mensagem: "Existem pessoas que passam pela nossas vida e se tornam eternas. E você, Iris, é uma delas! Seu sorriso tem o poder de acalmar, acolher e abraçar 💕"
 },
 {
-  foto: "imagens/Foto Casal2.jpg",
-  mensagem: "Meu carinho por você cresce nos pequenos momentos, nos sorrisos e nos sonhos que a gente guarda.",
+  foto: "imagens/fotoiris2.jpeg",
+  mensagem: "Iris, você é linda, sua alma esboça amor. Sua beleza vai muito além do que os olhos veem. Ela está na sua delicadeza, no seu coração e na forma como trata todos independentemente de tudo com muito carinho..",
 },
 {
-  foto: "imagens/Foto Casal3.jpg",
-  mensagem: "Você é aquele amor que ilumina até os dias mais simples, como se tudo ganhasse um brilho novo.",
+  foto: "imagens/fotoiris3.jpeg",
+  mensagem: "Seu sorriso, sua alegria ilumina qualquer lugar. Você tem um jeito único de transformar nossas vidas com seu amor e cuidado. Somos gratas por cada momento que compartilhamos e por ter você em nossas vidas 💖",
 },
 {
-  foto: "imagens/Foto Esposa.jpg",
-  mensagem: "Se eu pudesse escrever uma cartinha todos os dias, em todas elas haveria o mesmo segredo: eu amo você.",
+  foto: "imagens/fotoiris4.jpeg",
+  mensagem: "Entre tantas flores bonitas, o que mais chama atenção é a pessoa incrível que está diante delas. Seu coração floresce amor por onde passa.🌻",
 },
 {
-  foto: "imagens/Foto Marido.jpg",
-  mensagem: "Nosso amor tem esse jeitinho de abraço demorado: acolhe, acalma e faz o coração sorrir.",
+  foto: "imagens/fotoiris5.jpeg",
+  mensagem: "Iris, saiba que você é amada por muitos, e que sua presença é um enorme presente para todas nós. Que essa data seja resignificada e que você possa sentir todo o carinho que temos por você. Obrigada por ser nossa parceira de conversas, choros, carinhos e acima de tudo, apoio. Te amamos muuuuuuito! ❤️",
 },
 ];
 
